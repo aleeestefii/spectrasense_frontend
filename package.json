@@ -10,11 +10,15 @@
   },
   "dependencies": {
     "@google/earthengine": "^1.1.2",
+    "@react-google-maps/api": "^2.19.3",
+    "@types/google.maps": "^3.58.1",
     "autoprefixer": "^10.4.20",
-    "google-maps-react": "^2.0.6",
+    "axios": "^1.7.7",
+    "chart.js": "^4.4.4",
     "leaflet": "^1.9.4",
     "next": "14.2.14",
     "react": "^18",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18",
     "react-leaflet": "^4.2.1"
   },
