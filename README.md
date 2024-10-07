@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started(SPECTARSENSE)
-# FIRST OPEN THE TERMINAL ON TEH PROJECT AND RUN WITH IT 'npm install'
+# FIRST OPEN THE TERMINAL ON THE PROJECT AND RUN WITH IT 'npm install'
 # THEN RUN THE COMMAND 'npm run dev', so you can get the localhost link available
 # FINALLY RUN THE 'localhost' command in your browser and you're DONE
 
@@ -12,7 +12,7 @@ npm run dev
 # or
 yarn dev
 # or
-pnpm dev
+npm dev
 # or
 bun dev
 ```
