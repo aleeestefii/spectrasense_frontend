@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started(SPECTARSENSE)
+## Check out this infographic and follow step by step:' https://www.canva.com/design/DAGS0-meB94/icHx1GFN2p7gtegA9fwReQ/edit?utm_content=DAGS0-meB94&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 # FIRST OPEN THE TERMINAL ON THE PROJECT AND RUN WITH IT 'npm install'
 # THEN RUN THE COMMAND 'npm run dev', so you can get the localhost link available
 # FINALLY RUN THE 'localhost' command in your browser and you're DONE
